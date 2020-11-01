@@ -1,0 +1,5 @@
+ClientPackage\Lettura.class
+com\mycompany\chat\Server.class
+com\mycompany\chat\ServerThread.class
+ClientPackage\Client.class
+ClientPackage\Scrittura.class
